@@ -1,28 +1,28 @@
-= Jitsu, A Website Framework using Ruby and Rails
+# Jitsu, A Website Framework using Ruby and Rails
 
-* FIX (url)
+### FIX (url)
 
-== DESCRIPTION:
+ DESCRIPTION:
 
-FIX (describe your package)
+### FIX (describe your package)
 
-== FEATURES/PROBLEMS:
+  FEATURES/PROBLEMS:
 
-* FIX (list of features or problems)
+### FIX (list of features or problems)
 
-== SYNOPSIS:
+  SYNOPSIS:
 
-  FIX (code sample of usage)
+### FIX (code sample of usage)
 
-== REQUIREMENTS:
+  REQUIREMENTS:
 
-* FIX (list of requirements)
+### FIX (list of requirements)
 
-== INSTALL:
+  INSTALL:
+  
+### FIX (sudo gem install, anything else)
 
-* FIX (sudo gem install, anything else)
-
-== LICENSE:
+  LICENSE:
 
 (The MIT License)
 
